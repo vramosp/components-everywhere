@@ -40,6 +40,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/about-2.jpg
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
