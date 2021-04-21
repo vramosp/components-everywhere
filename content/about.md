@@ -18,7 +18,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: This is a title
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
