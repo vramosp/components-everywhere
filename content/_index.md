@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home this is a really long title
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
