@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Featuresandthisisa very long name to see what happens
 sections:
   - type: hero_section
     title: Explore Features
