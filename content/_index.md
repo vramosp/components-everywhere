@@ -2,7 +2,7 @@
 title: Home this is a really long title
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headlineee
+    title: This Is A Big Hero Headlin
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
