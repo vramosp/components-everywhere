@@ -336,8 +336,6 @@ models:
         label: Title
         required: true
         description: The title of the tag
-    singleInstance: true
-    file: ''
   page:
     type: page
     label: Page
