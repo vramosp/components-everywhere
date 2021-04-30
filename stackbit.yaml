@@ -1703,3 +1703,6 @@ models:
     type: page
     label: product
     layout: product
+    fields:
+      - name: ''
+        type: string
