@@ -1733,5 +1733,5 @@ models:
       - name: category
         type: string
         label: category
-      - name: ''
-        type: string
+      - name: date
+        type: datetime
