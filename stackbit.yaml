@@ -1735,3 +1735,4 @@ models:
         label: category
       - name: date
         type: datetime
+        label: date
