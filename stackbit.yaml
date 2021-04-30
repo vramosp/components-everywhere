@@ -1740,5 +1740,6 @@ models:
       - name: category
         type: string
         label: category
-      - name: ''
+      - name: date
         type: string
+        label: date
