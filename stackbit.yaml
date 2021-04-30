@@ -1733,5 +1733,5 @@ models:
       - name: date
         type: datetime
         label: date
-      - name: ''
+      - name: author
         type: string
