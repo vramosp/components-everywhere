@@ -1719,4 +1719,4 @@ models:
       - name: link
         type: url
       - name: rating
-        type: string
+        type: number
