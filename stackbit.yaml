@@ -1739,3 +1739,4 @@ models:
         label: category
       - name: content
         type: string
+        label: content
