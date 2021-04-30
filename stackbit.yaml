@@ -1722,3 +1722,4 @@ models:
         type: number
       - name: ratings
         type: string
+        label: ratings
