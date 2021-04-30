@@ -1715,4 +1715,4 @@ models:
         type: image
         label: image
       - name: price
-        type: string
+        type: number
