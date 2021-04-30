@@ -1718,5 +1718,5 @@ models:
         type: number
       - name: link
         type: url
-      - name: ''
+      - name: rating
         type: string
