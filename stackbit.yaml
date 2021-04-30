@@ -1723,3 +1723,7 @@ models:
       - name: rating
         type: number
         label: Rating
+  page1:
+    type: page
+    label: page1
+    layout: page1
