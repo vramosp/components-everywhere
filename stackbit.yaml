@@ -1738,3 +1738,4 @@ models:
         label: author
       - name: link
         type: url
+        label: link
