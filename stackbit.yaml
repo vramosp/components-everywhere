@@ -1720,5 +1720,5 @@ models:
         type: number
       - name: rating
         type: number
-      - name: ''
+      - name: ratings
         type: string
