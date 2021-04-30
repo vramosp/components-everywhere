@@ -1731,5 +1731,5 @@ models:
       - name: title
         type: string
         label: title
-      - name: ''
+      - name: summary
         type: string
