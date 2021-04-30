@@ -1743,3 +1743,7 @@ models:
       - name: date
         type: datetime
         label: date
+  page2:
+    type: page
+    label: page2
+    layout: page2
