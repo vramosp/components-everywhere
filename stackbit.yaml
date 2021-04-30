@@ -1704,5 +1704,5 @@ models:
     label: product
     layout: product
     fields:
-      - name: ''
+      - name: title
         type: string
