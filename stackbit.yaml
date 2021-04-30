@@ -1699,3 +1699,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product:
+    type: page
+    label: product
+    layout: product
