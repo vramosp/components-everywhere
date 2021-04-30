@@ -1736,3 +1736,6 @@ models:
         label: summary
       - name: category
         type: string
+        label: category
+      - name: ''
+        type: string
