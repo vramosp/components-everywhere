@@ -1725,5 +1725,3 @@ models:
         label: ratings
         items:
           type: number
-      - name: ''
-        type: string
