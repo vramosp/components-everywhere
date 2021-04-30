@@ -1710,3 +1710,4 @@ models:
         required: true
       - name: description
         type: string
+        label: description
