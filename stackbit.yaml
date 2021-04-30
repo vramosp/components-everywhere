@@ -1728,5 +1728,5 @@ models:
     label: page1
     layout: page1
     fields:
-      - name: ''
+      - name: title
         type: string
