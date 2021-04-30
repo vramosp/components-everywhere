@@ -1699,30 +1699,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  product:
-    type: page
-    label: product
-    layout: product
-    fields:
-      - name: title
-        type: string
-        label: title
-        required: true
-      - name: description
-        type: string
-        label: description
-      - name: image
-        type: image
-        label: image
-      - name: link
-        type: url
-        label: Link
-      - name: price
-        type: number
-        label: Price
-      - name: rating
-        type: number
-        label: Rating
   page1:
     type: page
     label: page1
