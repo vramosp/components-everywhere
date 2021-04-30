@@ -1733,3 +1733,5 @@ models:
       - name: date
         type: datetime
         label: date
+      - name: ''
+        type: string
