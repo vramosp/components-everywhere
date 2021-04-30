@@ -1711,11 +1711,11 @@ models:
       - name: description
         type: string
         label: description
+      - name: price
+        type: number
       - name: image
         type: image
         label: image
-      - name: price
-        type: number
       - name: link
         type: url
       - name: rating
