@@ -1734,3 +1734,5 @@ models:
       - name: summary
         type: string
         label: summary
+      - name: ''
+        type: string
