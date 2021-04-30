@@ -1720,3 +1720,5 @@ models:
         type: number
       - name: rating
         type: number
+      - name: ''
+        type: string
