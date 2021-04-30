@@ -1737,5 +1737,5 @@ models:
       - name: category
         type: string
         label: category
-      - name: ''
+      - name: content
         type: string
