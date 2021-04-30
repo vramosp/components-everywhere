@@ -1720,8 +1720,3 @@ models:
         type: number
       - name: rating
         type: number
-      - name: ratings
-        type: list
-        label: ratings
-        items:
-          type: number
