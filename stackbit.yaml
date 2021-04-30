@@ -1741,5 +1741,5 @@ models:
         type: string
         label: category
       - name: date
-        type: string
+        type: datetime
         label: date
