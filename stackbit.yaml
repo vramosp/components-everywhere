@@ -1723,3 +1723,6 @@ models:
     type: page
     label: page2
     layout: page2
+    fields:
+      - name: ''
+        type: string
