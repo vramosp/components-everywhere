@@ -1734,9 +1734,9 @@ models:
       - name: summary
         type: string
         label: summary
-      - name: category
-        type: string
-        label: category
       - name: content
         type: text
         label: content
+      - name: category
+        type: string
+        label: category
