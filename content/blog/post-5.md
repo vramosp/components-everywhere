@@ -1,6 +1,6 @@
 ---
 title: A perfect day in the park
-subtitle: It's a beautiful day at the park! We are counting down the days until
+subtitle: "It's a beautiful day at the park! We are counting down the days until\_we see children playing and hear laughter!"
 date: '2020-06-02'
 author: data/team/gustav-purpleson.json
 categories:
