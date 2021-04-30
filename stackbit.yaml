@@ -1731,3 +1731,5 @@ models:
       - name: title
         type: string
         label: title
+      - name: ''
+        type: string
