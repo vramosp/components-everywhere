@@ -1739,3 +1739,6 @@ models:
       - name: link
         type: url
         label: link
+  comment:
+    type: data
+    label: comment
