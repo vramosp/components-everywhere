@@ -370,10 +370,6 @@ models:
         label: Title
         description: The title of the post
         required: true
-      - type: string
-        name: subtitle
-        label: Subtitle
-        description: The subtitle of the post
       - type: date
         name: date
         label: Date
@@ -393,6 +389,10 @@ models:
           type: reference
           models:
             - category
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the post
       - type: list
         name: tags
         label: Tags
@@ -1716,7 +1716,10 @@ models:
         label: image
       - name: link
         type: url
+        label: Link
       - name: price
         type: number
+        label: Price
       - name: rating
         type: number
+        label: Rating
