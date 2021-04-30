@@ -1742,3 +1742,7 @@ models:
   comment:
     type: data
     label: comment
+  pages:
+    type: page
+    label: pages
+    layout: pages
