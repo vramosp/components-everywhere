@@ -1730,5 +1730,5 @@ models:
       - name: summary
         type: string
         label: summary
-      - name: ''
+      - name: category
         type: string
