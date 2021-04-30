@@ -1721,5 +1721,7 @@ models:
       - name: rating
         type: number
       - name: ratings
-        type: string
+        type: list
         label: ratings
+        items:
+          type: string
