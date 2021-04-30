@@ -1708,5 +1708,5 @@ models:
         type: string
         label: title
         required: true
-      - name: ''
+      - name: description
         type: string
