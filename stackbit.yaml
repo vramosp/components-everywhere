@@ -1716,5 +1716,5 @@ models:
         label: image
       - name: price
         type: number
-      - name: ''
-        type: string
+      - name: link
+        type: url
