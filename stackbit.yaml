@@ -1735,3 +1735,4 @@ models:
         label: date
       - name: author
         type: string
+        label: author
