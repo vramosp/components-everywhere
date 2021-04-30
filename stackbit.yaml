@@ -1727,3 +1727,6 @@ models:
     type: page
     label: page1
     layout: page1
+    fields:
+      - name: ''
+        type: string
