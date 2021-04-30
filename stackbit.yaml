@@ -1724,5 +1724,5 @@ models:
     label: page2
     layout: page2
     fields:
-      - name: ''
+      - name: itle
         type: string
