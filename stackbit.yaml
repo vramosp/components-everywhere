@@ -1733,3 +1733,4 @@ models:
         label: title
       - name: summary
         type: string
+        label: summary
