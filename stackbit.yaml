@@ -1711,5 +1711,6 @@ models:
       - name: description
         type: string
         label: description
-      - name: ''
+      - name: image
         type: string
+        label: image
