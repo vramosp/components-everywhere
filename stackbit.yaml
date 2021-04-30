@@ -1714,5 +1714,5 @@ models:
       - name: image
         type: image
         label: image
-      - name: ''
+      - name: price
         type: string
