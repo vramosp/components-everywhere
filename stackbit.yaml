@@ -1737,4 +1737,4 @@ models:
         type: string
         label: author
       - name: link
-        type: string
+        type: url
