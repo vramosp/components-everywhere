@@ -1,5 +1,5 @@
 ---
-title: Gustav Purpleson
+title: John Doe
 sections:
   - type: hero_section
     title: John Doe
