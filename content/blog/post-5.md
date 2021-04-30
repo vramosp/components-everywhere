@@ -1,8 +1,6 @@
 ---
 title: A perfect day in the park
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: It's a beautiful day at the park! We are counting down the days until
 date: '2020-06-02'
 author: data/team/gustav-purpleson.json
 categories:
