@@ -468,6 +468,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    description: d
   hero_section:
     type: object
     label: Hero section
